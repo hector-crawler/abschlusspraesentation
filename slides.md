@@ -8,7 +8,7 @@ themeConfig:
 
 # Crawler
 
-Ein selbstlernender Krabbelroboter
+#### Ein selbstlernender Krabbelroboter
 
 <!-- ![Image of our Crawler here](/logo.png) -->
 
@@ -25,9 +25,6 @@ Ein selbstlernender Krabbelroboter
     <img src="/logo.png" width="100"/>
   </a>
 </div>
-
-
-
 
 <div class="absolute bottom-20 flex">
   <p>
