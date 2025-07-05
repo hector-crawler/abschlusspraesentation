@@ -28,7 +28,7 @@ themeConfig:
 
 <div class="absolute bottom-20 flex">
   <p>
-    Pascal Roth, Jonathan Kraus und Gregor Niehl <br>
+    Gregor Niehl, Jonathan Kraus und Pascal Roth <br>
     in freundlicher Kooperation mit
       <a href="https://www.informatik.hs-mannheim.de/wir/menschen/professoren/prof-dr-thomas-ihme.html" target="_blank"> Prof. Dr. Thomas Ihme </a>
   </p>
