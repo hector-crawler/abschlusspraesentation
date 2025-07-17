@@ -37,3 +37,6 @@ themeConfig:
 ---
 src: ./pages/task.md
 ---
+---
+src: ./pages/mechanischer-aufbau.md
+---
