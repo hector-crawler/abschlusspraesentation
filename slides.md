@@ -4,6 +4,8 @@ layout: cover
 title: Crawler – Ein selbstlernender Krabbelroboter
 themeConfig:
   paginationPagesDisabled: [ 1 ]
+  paginationX: 'r'
+  paginationY: 'b'
 ---
 
 # Crawler
